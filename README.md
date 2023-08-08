@@ -64,9 +64,7 @@ This plot focuses on the passband region, demonstrating the IIR filter's respons
 ![IIR_c](https://github.com/isharadilshanra/FIR_and_IIR_Filter_Design/assets/105491340/17b7366a-b510-45f6-bad4-33873b9fc3a1)
 
 
-## How to Use
 
-Provide clear instructions on how users can utilize the provided code and scripts to design and analyze both FIR and IIR digital filters. Include steps for running the code, specifying parameters, and interpreting the results.
 
 ## Contributions
 
