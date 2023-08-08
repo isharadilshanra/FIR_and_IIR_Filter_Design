@@ -20,14 +20,17 @@ Design an FIR bandpass digital filter that satisfies the given specifications:
 - Include code for plotting the impulse and magnitude responses.
 
 #### Impulse Response Plot
+
 ![Impulse Response](path/to/im![FIR_impulse](https://github.com/isharadilshanra/FIR_and_IIR_Filter_Design/assets/105491340/b5d8be19-d439-41e8-8205-58d1287323ed)
 pulse_response.png)
 
 #### Magnitude Response (π ≤ ω < π)
+
 ![Magnitude Response](path/t![FIR_b](https://github.com/isharadilshanra/FIR_and_IIR_Filter_Design/assets/105491340/375bd62e-d041-43f4-902f-3ce0494588aa)
 o/magnitude_response.png)
 
 #### Magnitude Response (ωp1 ≤ ω ≤ ωp2)
+
 ![Passband Magnitude Response](pat![FIR_c](https://github.com/isharadilshanra/FIR_and_IIR_Filter_Design/assets/105491340/a286cc19-c36c-4d40-8d50-03f3417c3ac2)
 h/to/passband_magnitude.png)
 
@@ -51,10 +54,12 @@ Design an IIR bandpass digital filter using the bilinear transformation method. 
 
 
 #### Magnitude Response (π ≤ ω < π)
+
 ![IIR Magnitude Response](path/to![IIR_b](https://github.com/isharadilshanra/FIR_and_IIR_Filter_Design/assets/105491340/285ba6f0-70db-4118-b0a0-87c4f8bfc3ba)
 /iir_magnitude.png)
 
 #### Magnitude Response (ωp1 ≤ ω ≤ ωp2)
+
 ![IIR Passband Magnitude Response](path/to/iir_![IIR_c](https://github.com/isharadilshanra/FIR_and_IIR_Filter_Design/assets/105491340/17b7366a-b510-45f6-bad4-33873b9fc3a1)
 passband_magnitude.png)
 
