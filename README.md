@@ -26,11 +26,11 @@ Design an FIR bandpass digital filter that satisfies the given specifications:
 
 #### Magnitude Response (π ≤ ω < π)
 
-!(path/t![FIR_b](https://github.com/isharadilshanra/FIR_and_IIR_Filter_Design/assets/105491340/375bd62e-d041-43f4-902f-3ce0494588aa
+!(path/t![FIR_b](https://github.com/isharadilshanra/FIR_and_IIR_Filter_Design/assets/105491340/375bd62e-d041-43f4-902f-3ce0494588aa)
 
 #### Magnitude Response (ωp1 ≤ ω ≤ ωp2)
 
-!(pat![FIR_c](https://github.com/isharadilshanra/FIR_and_IIR_Filter_Design/assets/105491340/a286cc19-c36c-4d40-8d50-03f3417c3ac2
+!(pat![FIR_c](https://github.com/isharadilshanra/FIR_and_IIR_Filter_Design/assets/105491340/a286cc19-c36c-4d40-8d50-03f3417c3ac2)
 
 ## IIR Bandpass Digital Filter Design
 
